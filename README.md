@@ -13,7 +13,7 @@
 
 
 [https://codelab.pro/kurs-po-fastapi-avtorizacziya-i-autentifikacziya-5/?ysclid=mcrxr4zbyy557938000](https://codelab.pro/kurs-po-fastapi-avtorizacziya-i-autentifikacziya-5/?ysclid=mcrxr4zbyy557938000) - (хеширование пароля... безопасность .... регистрация нового пользователя)
-=======
+
 
 Для запуска контейнера Postqresql(c нашей базой) создайте файл .env в том же каталоге что и файл  development.docker-compose.yaml 
 следующего содержания:
@@ -30,4 +30,5 @@ _PGADMIN_DEFAULT_EMAIL=admin@example.com
 _PGADMIN_DEFAULT_PASSWORD=admin_password
 _PGADMIN_LISTEN_PORT=8080
 ```
->>>>>>> 1297b76f7a1017d0015426892332fa47a527fbdf
+
+
